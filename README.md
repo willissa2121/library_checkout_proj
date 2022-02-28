@@ -1,3 +1,2 @@
 # library_checkout_proj
-library_checkout_proj
-test
+Big and Impoortant things about our project here
